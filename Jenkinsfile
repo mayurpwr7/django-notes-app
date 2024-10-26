@@ -1,7 +1,7 @@
 @Library("Shared") _
 pipeline {
     
-    agent { label "maven" }
+    agent { label "vinod" }
     
     stages{
         
